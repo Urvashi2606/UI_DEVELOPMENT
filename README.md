@@ -12,4 +12,5 @@ Soccer Analysis is a Natural Language Processing (NLP) project designed to analy
 
 ## Installation
 git clone <-link of this repository->
+<br>
 cd soccer-analysis
