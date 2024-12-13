@@ -1,4 +1,4 @@
-player_id,average_speed_over_a_game,no_of_goals_made,fouls,yellow_card,red_card
+player_id,average_speed_over_a_game(km/hr),no_of_goals_made,fouls,yellow_card,red_card
 1_t2,29.5,3,1,1,0
 2_t2,21.3,1,0,2,1
 3_t2,23.7,4,1,0,0
